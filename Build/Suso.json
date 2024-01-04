@@ -1,7 +1,7 @@
 {
 "companyName": "GmedranoTIC",
 "productName": "Suso",
-"productVersion": "0.1",
+"productVersion": "2024",
 "dataUrl": "Suso.data.unityweb",
 "wasmCodeUrl": "Suso.wasm.code.unityweb",
 "wasmFrameworkUrl": "Suso.wasm.framework.unityweb",
